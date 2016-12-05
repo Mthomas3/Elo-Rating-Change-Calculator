@@ -9,4 +9,4 @@ Example :
 
 	the getVariation function return the k-factor number
 
-	getChanceToWIn(1600, 1700) => 28 the first player 28% of chance to win agaisn't the second player
+	getChanceToWIn(1600, 1700) => 28 the first player has 28% of chance to win agaisn't the second player
